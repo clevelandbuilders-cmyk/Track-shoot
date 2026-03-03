@@ -1,2 +1,2 @@
-# Track-shoot
+# Trap-shoot
 tournament Tracker
